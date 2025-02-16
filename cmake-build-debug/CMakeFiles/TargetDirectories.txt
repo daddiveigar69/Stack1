@@ -1,0 +1,3 @@
+C:/Users/alupigus/Desktop/pc proiect stack/pc project/cmake-build-debug/CMakeFiles/pc_project.dir
+C:/Users/alupigus/Desktop/pc proiect stack/pc project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alupigus/Desktop/pc proiect stack/pc project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
